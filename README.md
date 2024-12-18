@@ -1,3 +1,5 @@
+![Alt text](preview.png)
+
 1. Uploads file inside SCRIPT folder to your hosting
 2. Visit your domain, example : https://domain.com/install
 3. Fill information
