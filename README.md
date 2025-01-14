@@ -1,4 +1,11 @@
-![Alt text](preview.png)
+![screencapture-test-blackdveil-2025-01-13-20_38_00](https://github.com/user-attachments/assets/368ed826-1e10-4368-b53d-3a1893dbbafb)
+![screencapture-test-blackdveil-dashboard-2025-01-13-20_38_24](https://github.com/user-attachments/assets/1471cc19-bbe0-4f1c-98e3-44fcde920ce7)
+![screencapture-test-blackdveil-account-2025-01-13-21_41_18](https://github.com/user-attachments/assets/b4fab94e-2c86-4517-9547-da761fcf0e6c)
+PURCHASE CODE: fafa24c0-5a61-4e41-9a30-74b95d703e9c (UNLIMITED USE)
+ZIP PASSWORD : 123
+
+Design only works on the moddified scm
+
 
 1. Uploads file inside SCRIPT folder to your hosting
 2. Visit your domain, example : https://domain.com/install
