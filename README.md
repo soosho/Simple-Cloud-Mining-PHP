@@ -18,4 +18,4 @@ Design only works on the moddified scm
 9. Go to Coinpayments Addons and try click on get withdraw history
 10. Your cloud mining was ready
 11. 
-Donation : DR1G1FTb3sMqbpwBpREkL1uBaaTrdDQukw (Dogecoin) Ask Question, Buying theme and Addons :
+Donation : DCypbAfn79FkxCXgrQrw4vzW3Sp3PWEv8q (Dogecoin) Ask Question, Buying theme and Addons : https://t.me/Blackdveil
